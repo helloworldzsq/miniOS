@@ -1,37 +1,11 @@
 # miniOS
+> 前言
 
-#### 介绍
-自己动手写操作系统（于渊版）实战
+最近在看《自己动手写操作系统》（于渊著），里边很多实际操作的部分没有讲清楚，需要上网找教程才能实现。因此萌生了将里边所有操作记录下来的想法，同时也是为了防止自己放弃，逼自己不断学习的无奈之举吧。pdf以及源码存放在百度云盘里了，链接如下：https://pan.baidu.com/s/1ScZQ-9uU2SCeYKoE0VhvEA   提取码：fgw2，需要的可以自行下载。之后文档里提到的工具以及源码都可以在里边找到。
 
-#### 软件架构
-软件架构说明
+**注意：**之后的文档更注重实际操作部分，概念性内容请自行翻阅pdf或者上网查看。
 
+> 正文
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. [汇编命令](./汇编命令.md)
+2. [写一个最小的操作系统](写一个最小的操作系统.md)
